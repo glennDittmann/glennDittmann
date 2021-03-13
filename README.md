@@ -5,8 +5,8 @@
 - 📫 How to reach me: leave a mail at glenn.dittmann@posteo.de
 
 
-![Glenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glennDittmann&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glennDittmann&layout=compact&langs_count=6&hide_border=true&theme=vue)
+![Glenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glennDittmann&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=calm)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glennDittmann&layout=compact&langs_count=6&hide_border=true&theme=calm)
 
 
 
