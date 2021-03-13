@@ -6,7 +6,7 @@
 
 
 ![Glenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glennDittmann&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glennDittmanncount_private=true&include_all_commits=true)](https://github.com/glennDittmann/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glennDittmann&count_private=true&include_all_commits=true)](https://github.com/glennDittmann/github-readme-stats)
 
 
 
