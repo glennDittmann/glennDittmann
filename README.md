@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glennDittmann
 - 👀 I’m interested in Game Design, Machine Learning, and Microcontroller programming 
-- 🌱 I’m currently learning Spanish, so tandems are very welcome!
+- 🌱 I’m currently learning Nederlands, so tandems are very welcome!
 - 💞️ I’m looking to collaborate on interesing projects (on the topics above), preferably Game Design
 - 📫 How to reach me: leave a mail at glenn.dittmann@posteo.de
 
