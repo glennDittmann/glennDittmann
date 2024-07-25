@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Glenn (@glennDittmann)
 - 👀 I’m interested in Computer Graphics, Game Design & Web 
-- 🌱 I’m currently learning Nederlands, so tandems are very welcome!
 - 📫 How to reach me: leave a mail at glenn.dittmann@posteo.de
 
 
